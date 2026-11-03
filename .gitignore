@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+.react-router/
+.env
+.env.local
+supabase/.temp/
+supabase/.branches/
+test-results/
+playwright-report/
