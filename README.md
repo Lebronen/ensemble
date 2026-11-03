@@ -1,4 +1,4 @@
-# Réseau de musiciens
+# Ensemble
 
 Site de mise en relation entre musiciens, groupes et lieux. Le nom du projet est provisoire.
 
